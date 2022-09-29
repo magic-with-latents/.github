@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The organization aims to explain modern and complex ML tech to the community. Understanding any ML component comprehensively involves of three things:
+We aim to explain new and complex ML tech to the community. This is our way of giving back to the community. Understanding any ML component comprehensively involves three things:
 
 * Underlying math
 * Conceptual framework of the component
