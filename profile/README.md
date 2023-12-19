@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We aim to explain new and complex ML tech to the community. This is our way of giving back to the community. Understanding any ML component comprehensively involves three things:
+Welcome to [The Latent](https://magic-with-latents.github.io/latent/). We aim to explain new and complex ML tech to the community. This is our way of giving back to the community. Understanding any ML component comprehensively involves three things:
 
 * Underlying math
 * Conceptual framework of the component
